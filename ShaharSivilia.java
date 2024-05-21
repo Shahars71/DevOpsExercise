@@ -4,7 +4,7 @@ public class ShaharSivilia
 	{
 		for (int i = 0; i <= 10; i++)
 		{
-			System.out.println("Shahar Sivilia " + i);
+			System.out.println("Shahar Sivilia 2 " + i);
 		}
 	}
 }
